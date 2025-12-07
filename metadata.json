@@ -1,0 +1,8 @@
+{
+  "name": "CreatorGpt - AI Solver",
+  "description": "An advanced AI-powered question solver with visual recognition, voice synthesis, and a community-driven creator hub.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
